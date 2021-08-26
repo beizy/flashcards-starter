@@ -23,6 +23,8 @@ class Round {
     return turn.giveFeedback();
   }
 
+
+
   calculatePercentCorrect() {
     return (1 - this.wrongGuesses.length / this.turns).toFixed(2) * 100;
   }
@@ -35,6 +37,7 @@ class Round {
     console.log('******************GOOD JOB! LET\' S START A NEW ROUND!******************')
     const Game = require("./Game");
     let game = new Game;
+    game.playCount = this.turns
     game.start()
   }
 }
