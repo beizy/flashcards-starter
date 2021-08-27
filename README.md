@@ -37,4 +37,4 @@ Bei (owner of this repo)
 - Nolan
 
 ## Screenshot
-![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
+![screenshot of game demo](https://user-images.githubusercontent.com/73845209/131056133-733ed868-733f-4a33-97d3-f5668d674872.gif)
