@@ -32,9 +32,5 @@ Run the `index` file on `node`.
 ## Author
 Bei (owner of this repo)
 
-### Iteration 4 contributors
-- Natalia
-- Nolan
-
 ## Screenshot
 ![screenshot of game demo](https://user-images.githubusercontent.com/73845209/131056133-733ed868-733f-4a33-97d3-f5668d674872.gif)
